@@ -14,16 +14,11 @@ By merging deep learning and linear regression techniques, I have created a reli
 I'm incredibly proud of the results achieved through this project and excited to continue exploring the possibilities of deep learning in underwater signal classification. Stay tuned for more updates on my journey into the fascinating world of data science and machine learning! 🤖✨
 
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## Authors
 
-- [@octokatherine](https://github.com/ShakilDeep)
+- [@Shakil](https://github.com/ShakilDeep)
 
 
 ## Badges
